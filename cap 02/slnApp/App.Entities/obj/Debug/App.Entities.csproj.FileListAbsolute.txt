@@ -1,0 +1,6 @@
+C:\Users\EXTENSION\Desktop\Angel Tingal\slnApp\App.Entities\bin\Debug\App.Entities.dll
+C:\Users\EXTENSION\Desktop\Angel Tingal\slnApp\App.Entities\bin\Debug\App.Entities.pdb
+C:\Users\EXTENSION\Desktop\Angel Tingal\slnApp\App.Entities\obj\Debug\App.Entities.csprojAssemblyReference.cache
+C:\Users\EXTENSION\Desktop\Angel Tingal\slnApp\App.Entities\obj\Debug\App.Entities.csproj.CoreCompileInputs.cache
+C:\Users\EXTENSION\Desktop\Angel Tingal\slnApp\App.Entities\obj\Debug\App.Entities.dll
+C:\Users\EXTENSION\Desktop\Angel Tingal\slnApp\App.Entities\obj\Debug\App.Entities.pdb
