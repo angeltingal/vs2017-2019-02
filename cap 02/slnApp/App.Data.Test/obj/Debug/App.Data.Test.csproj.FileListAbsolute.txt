@@ -19,3 +19,24 @@ C:\Users\EXTENSION\Desktop\Angel Tingal\slnApp\App.Data.Test\obj\Debug\App.Data.
 C:\Users\EXTENSION\Desktop\Angel Tingal\slnApp\App.Data.Test\obj\Debug\App.Data.Test.csproj.CopyComplete
 C:\Users\EXTENSION\Desktop\Angel Tingal\slnApp\App.Data.Test\obj\Debug\App.Data.Test.dll
 C:\Users\EXTENSION\Desktop\Angel Tingal\slnApp\App.Data.Test\obj\Debug\App.Data.Test.pdb
+C:\Angel Tingal\git\vs2017-2019-02\cap 02\slnApp\App.Data.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Angel Tingal\git\vs2017-2019-02\cap 02\slnApp\App.Data.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Angel Tingal\git\vs2017-2019-02\cap 02\slnApp\App.Data.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Angel Tingal\git\vs2017-2019-02\cap 02\slnApp\App.Data.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Angel Tingal\git\vs2017-2019-02\cap 02\slnApp\App.Data.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Angel Tingal\git\vs2017-2019-02\cap 02\slnApp\App.Data.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Angel Tingal\git\vs2017-2019-02\cap 02\slnApp\App.Data.Test\bin\Debug\App.Data.Test.dll
+C:\Angel Tingal\git\vs2017-2019-02\cap 02\slnApp\App.Data.Test\bin\Debug\App.Data.Test.pdb
+C:\Angel Tingal\git\vs2017-2019-02\cap 02\slnApp\App.Data.Test\bin\Debug\App.Data.dll
+C:\Angel Tingal\git\vs2017-2019-02\cap 02\slnApp\App.Data.Test\bin\Debug\App.Entities.dll
+C:\Angel Tingal\git\vs2017-2019-02\cap 02\slnApp\App.Data.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Angel Tingal\git\vs2017-2019-02\cap 02\slnApp\App.Data.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Angel Tingal\git\vs2017-2019-02\cap 02\slnApp\App.Data.Test\bin\Debug\App.Data.pdb
+C:\Angel Tingal\git\vs2017-2019-02\cap 02\slnApp\App.Data.Test\bin\Debug\App.Entities.pdb
+C:\Angel Tingal\git\vs2017-2019-02\cap 02\slnApp\App.Data.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Angel Tingal\git\vs2017-2019-02\cap 02\slnApp\App.Data.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Angel Tingal\git\vs2017-2019-02\cap 02\slnApp\App.Data.Test\obj\Debug\App.Data.Test.csprojAssemblyReference.cache
+C:\Angel Tingal\git\vs2017-2019-02\cap 02\slnApp\App.Data.Test\obj\Debug\App.Data.Test.csproj.CoreCompileInputs.cache
+C:\Angel Tingal\git\vs2017-2019-02\cap 02\slnApp\App.Data.Test\obj\Debug\App.Data.Test.csproj.CopyComplete
+C:\Angel Tingal\git\vs2017-2019-02\cap 02\slnApp\App.Data.Test\obj\Debug\App.Data.Test.dll
+C:\Angel Tingal\git\vs2017-2019-02\cap 02\slnApp\App.Data.Test\obj\Debug\App.Data.Test.pdb

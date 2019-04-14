@@ -4,3 +4,12 @@ C:\Users\EXTENSION\Desktop\Angel Tingal\slnApp\App.Data\obj\Debug\App.Data.cspro
 C:\Users\EXTENSION\Desktop\Angel Tingal\slnApp\App.Data\obj\Debug\App.Data.csproj.CoreCompileInputs.cache
 C:\Users\EXTENSION\Desktop\Angel Tingal\slnApp\App.Data\obj\Debug\App.Data.dll
 C:\Users\EXTENSION\Desktop\Angel Tingal\slnApp\App.Data\obj\Debug\App.Data.pdb
+C:\Angel Tingal\git\vs2017-2019-02\cap 02\slnApp\App.Data\bin\Debug\App.Data.dll
+C:\Angel Tingal\git\vs2017-2019-02\cap 02\slnApp\App.Data\bin\Debug\App.Data.pdb
+C:\Angel Tingal\git\vs2017-2019-02\cap 02\slnApp\App.Data\bin\Debug\App.Entities.dll
+C:\Angel Tingal\git\vs2017-2019-02\cap 02\slnApp\App.Data\bin\Debug\App.Entities.pdb
+C:\Angel Tingal\git\vs2017-2019-02\cap 02\slnApp\App.Data\obj\Debug\App.Data.csprojAssemblyReference.cache
+C:\Angel Tingal\git\vs2017-2019-02\cap 02\slnApp\App.Data\obj\Debug\App.Data.csproj.CoreCompileInputs.cache
+C:\Angel Tingal\git\vs2017-2019-02\cap 02\slnApp\App.Data\obj\Debug\App.Data.csproj.CopyComplete
+C:\Angel Tingal\git\vs2017-2019-02\cap 02\slnApp\App.Data\obj\Debug\App.Data.dll
+C:\Angel Tingal\git\vs2017-2019-02\cap 02\slnApp\App.Data\obj\Debug\App.Data.pdb
