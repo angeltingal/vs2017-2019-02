@@ -40,3 +40,5 @@ C:\Angel Tingal\git\vs2017-2019-02\cap 02\slnApp\App.Data.Test\obj\Debug\App.Dat
 C:\Angel Tingal\git\vs2017-2019-02\cap 02\slnApp\App.Data.Test\obj\Debug\App.Data.Test.csproj.CopyComplete
 C:\Angel Tingal\git\vs2017-2019-02\cap 02\slnApp\App.Data.Test\obj\Debug\App.Data.Test.dll
 C:\Angel Tingal\git\vs2017-2019-02\cap 02\slnApp\App.Data.Test\obj\Debug\App.Data.Test.pdb
+C:\Angel Tingal\git\vs2017-2019-02\cap 02\slnApp\App.Data.Test\bin\Debug\Dapper.dll
+C:\Angel Tingal\git\vs2017-2019-02\cap 02\slnApp\App.Data.Test\bin\Debug\Dapper.xml

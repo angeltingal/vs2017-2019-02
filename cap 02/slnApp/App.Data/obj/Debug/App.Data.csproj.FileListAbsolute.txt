@@ -13,3 +13,5 @@ C:\Angel Tingal\git\vs2017-2019-02\cap 02\slnApp\App.Data\obj\Debug\App.Data.csp
 C:\Angel Tingal\git\vs2017-2019-02\cap 02\slnApp\App.Data\obj\Debug\App.Data.csproj.CopyComplete
 C:\Angel Tingal\git\vs2017-2019-02\cap 02\slnApp\App.Data\obj\Debug\App.Data.dll
 C:\Angel Tingal\git\vs2017-2019-02\cap 02\slnApp\App.Data\obj\Debug\App.Data.pdb
+C:\Angel Tingal\git\vs2017-2019-02\cap 02\slnApp\App.Data\bin\Debug\Dapper.dll
+C:\Angel Tingal\git\vs2017-2019-02\cap 02\slnApp\App.Data\bin\Debug\Dapper.xml

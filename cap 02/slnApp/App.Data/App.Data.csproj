@@ -31,8 +31,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Dapper, Version=1.60.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Dapper.1.60.6\lib\net451\Dapper.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Transactions" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -41,6 +45,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ArtistTXDistribuidasDa.cs" />
+    <Compile Include="ArtistTXLocalDapperDA.cs" />
+    <Compile Include="ArtistTXLocalDa.cs" />
     <Compile Include="ArtistDA.cs" />
     <Compile Include="BaseConnection.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -50,6 +57,9 @@
       <Project>{ff01c129-7e5a-4493-8942-3a42dcebc2fb}</Project>
       <Name>App.Entities</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
